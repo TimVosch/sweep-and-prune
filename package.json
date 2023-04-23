@@ -1,0 +1,15 @@
+{
+    "name": "colltest",
+    "packageManager": "yarn@3.5.0",
+    "scripts": {
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.4",
+        "vite": "^4.3.1"
+    },
+    "dependencies": {
+        "bitecs": "^0.3.38",
+        "pixi.js": "^7.2.4"
+    }
+}
